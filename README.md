@@ -46,7 +46,7 @@ The game features several types of enemies, including badniks and bosses. Defeat
 
 ### Soundtrack
 
-The game features an original soundtrack with catchy tunes that will get stuck in your head for days!
+The game features an original soundtrack with catchy tunes.
 
 ## Contributing
 
