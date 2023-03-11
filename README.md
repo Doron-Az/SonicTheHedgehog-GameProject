@@ -11,8 +11,8 @@ Welcome to Sonic The Hedgehog Game Project, a fan-made 2D platformer game inspir
 To play Sonic The Hedgehog Game Project, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Open the "SonicTheHedgehog-GameProject" folder.
-3. Double-click on the "index.html" file to launch the game in your web browser.
+2. Open the "SonicTheHedgehog-GameProject" folder with visual studio.
+3. Run the "main.cpp" file.
 
 Alternatively, you can play the game online by visiting the [GitHub Pages website](https://doron-az.github.io/SonicTheHedgehog-GameProject/).
 
