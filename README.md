@@ -14,8 +14,6 @@ To play Sonic The Hedgehog Game Project, follow these steps:
 2. Open the "SonicTheHedgehog-GameProject" folder with visual studio.
 3. Run the "main.cpp" file.
 
-Alternatively, you can play the game online by visiting the [GitHub Pages website](https://doron-az.github.io/SonicTheHedgehog-GameProject/).
-
 ## Controls
 
 To play Sonic The Hedgehog Game Project, use the following controls:
@@ -25,9 +23,18 @@ To play Sonic The Hedgehog Game Project, use the following controls:
 - Up arrow: Jump
 - Spacebar: Spin dash
 
+
 ## Features
 
-The game features several levels with different themes, including Green Hill, Marble Zone, and Spring Yard. Each level has its own unique challenges and secrets to discover.
+The game was developed using C++ programming language with Object-Oriented Design and utilizes the Box2D and SFML libraries. Other features of the game include:
+
+- Several levels with different themes.
+- Enemies that require careful timing and strategy to defeat.
+- An original soundtrack with catchy tunes.
+- Fluid movement and physics simulation thanks to Box2D.
+- The use of SFML for rendering graphics, playing sound effects, and handling user input.
+- The ability to customize controls in the game's options menu.
+
 
 ### Level Design
 
